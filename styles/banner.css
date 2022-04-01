@@ -1,0 +1,26 @@
+.banner{
+	height: 70vh;
+	font-family: "Neutra text";
+	background-image: url("../images/cat-banner.webp");
+	background-size: cover;
+	background-position: center;
+	color: black;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h1, .banner h2{
+	text-shadow: 1px 1px 1px white;
+}
+
+.footer{
+	text-align: center;
+	color: white;
+	padding: 13px 0;
+	background-color: #FFD48E;
+	margin-top: 24px;
+	font-size: 15px;
+	font-family: "Neutra text";
+}
